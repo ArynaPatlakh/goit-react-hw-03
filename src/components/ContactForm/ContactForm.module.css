@@ -17,3 +17,9 @@
    margin-top: 15px;
    border: 1px solid black;
 }
+
+.error{
+    color: red;
+    font-weight: bold;
+    width: inherit;
+}
